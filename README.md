@@ -1,2 +1,2 @@
 # exerciciosDeJava
-Conjunto de exercicios de Java. 
+Conjunto de exercicios de Java. Lista. 
