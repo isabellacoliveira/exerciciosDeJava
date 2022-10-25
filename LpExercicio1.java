@@ -15,7 +15,7 @@ public class LpExercicio1 {
 				if (numero > 0 ) {
 					System.out.println("este número é positivo");
 				} else {
-					System.out.println("este número é negativo");
+					System.out.println("este número é negativo:");
 		    } 
 	      }
 	  }
